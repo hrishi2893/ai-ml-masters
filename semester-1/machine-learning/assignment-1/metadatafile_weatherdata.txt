@@ -1,0 +1,13 @@
+Data Description:
+
+•	Temperature in degrees Celsius, which can range from extremely cold to extremely hot, the temperature is represented by a numeric value. 
+•	Humidity (numeric) value is the percentage of humidity, which may include values that are more than 100% in order to create outliers. 
+•	Wind Speed (numerical): This variable provides an indication of the wind speed in kilometers per hour, with a range that includes numbers that are unreasonably high.
+•	Precipitation percentage, including any outlier values, is displayed numerically as the precipitation percentage. 
+•	Cloud Cover (categorical): This term is used to describe this phenomenon.
+•	Atmospheric Pressure (numeric) variable is used to record the atmospheric pressure in hPa.
+•	UV Index is a numerical value that reflects the UV index, which is a measurement of the intensity of ultraviolet light. 
+•	Season (categorical) that describes the time of year when the data was gathered. 
+•	Visibility (kms) (numeric): This number indicates the visibility in kilometers, which can range from extremely low to exceptionally high values. 
+•	Location (categorical): Identifies the type of place where the data was obtained. 
+•	Weather Type (categorical): The target variable for classification, providing information on the kind of weather.
