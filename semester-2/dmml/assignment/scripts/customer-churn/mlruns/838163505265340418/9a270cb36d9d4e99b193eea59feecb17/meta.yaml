@@ -1,0 +1,15 @@
+artifact_uri: file:///home/customer-churn/mlruns/838163505265340418/9a270cb36d9d4e99b193eea59feecb17/artifacts
+end_time: 1741841582619
+entry_point_name: ''
+experiment_id: '838163505265340418'
+lifecycle_stage: active
+run_id: 9a270cb36d9d4e99b193eea59feecb17
+run_name: casual-sow-289
+run_uuid: 9a270cb36d9d4e99b193eea59feecb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741841577649
+status: 3
+tags: []
+user_id: root

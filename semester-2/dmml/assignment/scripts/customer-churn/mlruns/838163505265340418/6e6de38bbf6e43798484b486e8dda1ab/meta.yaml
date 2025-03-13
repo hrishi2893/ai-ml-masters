@@ -1,0 +1,15 @@
+artifact_uri: file:///home/customer-churn/mlruns/838163505265340418/6e6de38bbf6e43798484b486e8dda1ab/artifacts
+end_time: 1741841576624
+entry_point_name: ''
+experiment_id: '838163505265340418'
+lifecycle_stage: active
+run_id: 6e6de38bbf6e43798484b486e8dda1ab
+run_name: incongruous-cod-331
+run_uuid: 6e6de38bbf6e43798484b486e8dda1ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741841569799
+status: 3
+tags: []
+user_id: root
